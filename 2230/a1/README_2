@@ -1,0 +1,10 @@
+Instructions For Running Program:
+_________________________________
+
+- Flash the program to the MSP430
+"make flash"
+
+
+
+- Run
+"sudo screen /dev/ttyACM0 9600"

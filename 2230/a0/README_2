@@ -1,0 +1,8 @@
+Instructions For Running Program:
+_________________________________
+
+-Run the program execution line
+"gcc -o conv conv.c"
+
+-Convert Numbers
+"./conv [#] [Base]"

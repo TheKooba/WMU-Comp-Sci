@@ -1,0 +1,7 @@
+Instructions For Running Program:
+_________________________________
+
+- Flash the program to the MSP430
+"make flash"
+
+_________________________________
